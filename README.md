@@ -12,4 +12,4 @@
 
 ## 📄 许可证
 
-Apache License 2.0 © 2026 玄琤宁
+Apache License 2.0 © 2026 玄琤宁（xuanchengning)
