@@ -1,4 +1,14 @@
 # port_scanner.py
+
+"""
+作者: xuanchengning
+仓库: https://github.com/xuanchengning/planetnet
+
+本工具仅供安全研究和授权测试使用
+未经授权扫描他人网站属于违法行为
+"""
+
+
 import socket
 import threading
 import time
